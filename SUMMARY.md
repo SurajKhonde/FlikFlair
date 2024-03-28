@@ -196,4 +196,5 @@
   * [tailwindcss.Config](how-active-dark-theme/tailwindcss.config.md)
 * [let's Build Book\_Keeper](lets-build-book\_keeper/README.md)
   * [Style.css](lets-build-book\_keeper/style.css.md)
-* [Script.js](script.js.md)
+  * [Script.js](lets-build-book\_keeper/script.js.md)
+* [animated-navigation](animated-navigation.md)
